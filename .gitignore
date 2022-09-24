@@ -1,3 +1,12 @@
+# file that don't need to push
+refs/
+objects/
+info/
+hooks/
+config
+description
+HEAD
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
