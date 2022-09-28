@@ -39,4 +39,4 @@ const edges = [
     ['o', 'n']
 ];
 
-console.log(undirectedPath(edges, 'j', 'm'));
+console.log(undirectedPath(edges, 'j', 'm')); // true

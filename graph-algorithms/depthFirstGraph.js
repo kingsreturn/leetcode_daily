@@ -38,4 +38,4 @@ const graph = {
 
 //depthFirstPrint(graph, 'a');  // abdfce
 
-breadthFirstPrint(graph,'a');
+breadthFirstPrint(graph,'a'); //abcdef

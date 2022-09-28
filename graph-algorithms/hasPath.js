@@ -34,4 +34,4 @@ const hasPath = (graph, src, dst) => {
 };
 
 
-console.log(hasPath(graph, 'f', 'k'));
+console.log(hasPath(graph, 'f', 'k')); //true
